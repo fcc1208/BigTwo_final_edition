@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BigTwo_final_edition/BigTwo_final_edition.vcxproj" />
+</Solution>
